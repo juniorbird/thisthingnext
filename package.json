@@ -3,11 +3,12 @@
   "version": "0.0.1",
   "description": "Get inspired to do this thing next",
   "main": "index.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "eslint-config-airbnb": "^11.1.0",
-    "eslint-plugin-react": "^6.2.2"
+    "eslint-plugin-react": "^6.2.2",
+    "firebase-tools": "^3.0.7"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "test"
   },
