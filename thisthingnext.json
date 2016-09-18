@@ -1,0 +1,249 @@
+{
+  "images" : {
+    "38b16bbb" : [ "@white", false, false, "@white" ],
+    "PcLGXNjMTdiFVKTrElCl__DSC2245" : [ "@yellow", "@yellow", "@white", "@white" ],
+    "amazing-animal-beautiful-beautifull" : [ "@white", "@white", "@white", "@white" ],
+    "cold-snow-landscape-nature" : [ false, "@black", "@black", false ],
+    "cold-snow-landscape-water" : [ "@black", "@yellow", "@yellow", "@yellow" ],
+    "dawn-landscape-mountains-nature 2" : [ "@black", false, "@white", false ],
+    "fall-in-to-the-gap" : [ "@yellow", false, "@yellow", false ],
+    "field-of-rapeseeds-oilseed-rape-blutenmeer-yellow-46164" : [ "@black", "@black", "@black", "@black" ],
+    "groynes-sea-baltic-sea-beach-landscape-53560" : [ "@yellow", "@yellow", "@yellow", "@yellow" ],
+    "italian-landscape-mountains-nature" : [ "@black", false, false, false ],
+    "landscape-rocks-ocean-nature" : [ false, "@yellow", "@yellow", "@yellow" ],
+    "landscape-scotland-nature-highlands-and-islands-45888" : [ false, false, "@white", "@white" ],
+    "pexels-photo 2" : [ "@black", "@yellow", "@yellow", "@black" ],
+    "pexels-photo 3" : [ "@black", "@yellow", "@white", "@yellow" ],
+    "pexels-photo-102447" : [ "@black", "@yellow", "@yellow", "@yellow" ],
+    "pexels-photo-105249" : [ "@black", "@black", "@yellow", "@black" ],
+    "pexels-photo-111109" : [ "@white", "@white", "@white", "@white" ],
+    "pexels-photo-112655" : [ false, false, "@black", false ],
+    "pexels-photo-119564" : [ "@white", "@white", "@white", "@white" ],
+    "pexels-photo-121630" : [ "@black", "@yellow", "@yellow", "@yellow" ],
+    "pexels-photo-12579" : [ "@white", "@white", "@white", "@white" ],
+    "pexels-photo-130814" : [ false, "@yellow", "@yellow", "@yellow" ],
+    "pexels-photo-132037" : [ "@black", false, false, "@white" ],
+    "pexels-photo-24580" : [ "@white", false, "@black", false ],
+    "pexels-photo-26017" : [ "@white", "@yellow", "@white", "@yellow" ],
+    "pexels-photo-27954" : [ "@yellow", "@yellow", "@yellow", false ],
+    "pexels-photo-38326" : [ "@black", false, "@white", "@yellow" ],
+    "pexels-photo-48661" : [ "@black", false, "@white", "@yellow" ],
+    "pexels-photo-60239" : [ "@black", "@yellow", false, "@yellow" ],
+    "pexels-photo-68495" : [ "@white", "@white", "@white", false ],
+    "pexels-photo-werwer" : [ "@white", "@white", "@white", "@white" ],
+    "photo-1413977886085-3bbbf9a7cf6e" : [ "@white", "@white", false, "@black" ],
+    "photo-1422513391413-ddd4f2ce3340" : [ "@yellow", "@yellow", "@white", "@yellow" ],
+    "photo-1423474695515-c64cdacb6a07" : [ "@black", "@black", false, "@yellow" ],
+    "photo-1428908728789-d2de25dbd4e2" : [ "@black", "@black", "@yellow", false ],
+    "photo-1430916273432-273c2db881a0" : [ "@white", "@white", "@black", false ],
+    "photo-1438021258176-43efc14c67dd" : [ "@yellow", "@yellow", "@yellow", "@yellow" ],
+    "photo-1440909921208-2fcbb9e42f7e" : [ "@white", "@white", false, "@white" ],
+    "photo-1442405740009-7b57cca9d316" : [ "@black", "@yellow", "@white", "@yellow" ],
+    "photo-1444090542259-0af8fa96557e" : [ "@black", false, "@black", false ],
+    "photo-1444525873963-75d329ef9e1b" : [ "@yellow", false, "@white", false ],
+    "photo-1446426156356-92b664d86b77" : [ "@black", "@black", "@black", "@black" ],
+    "photo-1449024540548-94f5d5a59230" : [ "@black", "@yellow", "@yellow", "@yellow" ],
+    "photo-1450631835004-9b95ff5cd66f" : [ "@yellow", "@yellow", false, "@yellow" ],
+    "photo-1451915366311-9b7b80c138ce" : [ false, "@yellow", "@yellow", "@yellow" ],
+    "photo-1453371825209-5941184e42a7" : [ "@black", "@black", "@black", "@black" ],
+    "photo-1453895153109-e320e7dd0f27" : [ "@black", false, "@white", false ],
+    "photo-1454027033961-47c0a98fa667" : [ false, false, "@white", false ],
+    "photo-1456355514971-608caf767df0" : [ "@white", "@white", false, false ],
+    "photo-1456530308602-976f6a4bb440" : [ "@white", "@white", "@yellow", "@yellow" ],
+    "photo-1458640904116-093b74971de9" : [ "@yellow", "@yellow", false, false ],
+    "photo-1459909633680-206dc5c67abb" : [ false, "@white", "@white", "@white" ],
+    "photo-1460551204960-763bc82b7d8f" : [ "@white", false, "@yellow", false ],
+    "photo-1460647927807-8e664765c97c" : [ "@white", false, "@yellow", "@yellow" ],
+    "photo-1464376810568-596bdd5a1897" : [ "@black", "@black", "@yellow", "@black" ],
+    "photo-1464618663641-bbdd760ae84a" : [ "@black", "@black", "@black", "@black" ],
+    "photo-1464646163800-8331cc18a357" : [ "@white", false, false, "@yellow" ],
+    "photo-1464809064666-ef22abde2569" : [ "@yellow", "@yellow", "@white", "@white" ],
+    "photo-1465146344425-f00d5f5c8f07" : [ "@black", false, "@black", false ],
+    "photo-1465173121987-373740a169b3" : [ "@black", "@black", "@black", "@yellow" ],
+    "photo-1465783846095-f578e42b2500" : [ "@black", "@black", false, false ],
+    "photo-1465834342651-fca149ee1ee6" : [ "@black", "@black", false, false ],
+    "photo-1465837512497-667526942562" : [ false, false, "@white", "@black" ],
+    "photo-1466725574919-8f40de97af6d" : [ false, "@yellow", "@white", false ],
+    "photo-1467010389552-c18c4d79966f" : [ "@black", "@yellow", "@yellow", "@yellow" ],
+    "photo-1467810160588-c86c0deb5d16" : [ false, false, false, "@white" ],
+    "photo-1468605325785-3de4aabda058" : [ "@white", false, "@white", "@white" ],
+    "photo-1468906824284-242b500c38b4" : [ "@white", "@white", "@white", "@white" ],
+    "photo-1469287408052-11a2f8b9920a" : [ "@black", "@black", false, false ],
+    "photo-1470114756101-d58df39917b7" : [ false, "@yellow", false, "@white" ],
+    "photo-1470214304380-aadaedcfff84" : [ false, false, "@white", "@white" ],
+    "photo-1470236108104-dc405c748d0f" : [ "@black", "@yellow", "@yellow", "@black" ],
+    "photo-1470416286753-2cd06511d1cd" : [ "@white", false, false, "@white" ],
+    "photo-1471079688237-3ac9a55f1d6f" : [ "@yellow", "@white", "@white", false ],
+    "photo-1471428956182-52671c58549a" : [ "@black", "@black", "@yellow", "@black" ],
+    "photo-1471590807070-3f2735ef21b6" : [ false, "@yellow", "@white", false ],
+    "photo-1471857445670-6568fa196c9c" : [ "@yellow", "@yellow", "@yellow", "@white" ],
+    "photo-1471899236350-e3016bf1e69e" : [ false, false, "@black", "@white" ],
+    "photo-1472132858735-6313c7962473" : [ "@white", "@white", "@yellow", "@white" ],
+    "photo-1472190649224-495422e1b602" : [ "@yellow", "@black", "@black", "@black" ],
+    "photo-1472469214909-13c93287b522" : [ "@black", "@black", "@black", "@black" ],
+    "photo-1472494731104-3ba69e52845b" : [ "@white", "@white", false, "@white" ],
+    "road-sky-sand-street" : [ "@black", "@yellow", "@white", "@yellow" ],
+    "snow-landscape-nature-sky" : [ "@white", false, false, false ],
+    "sunrise-phu-quoc-island-ocean" : [ "@yellow", "@white", false, "@white" ],
+    "sunrise-phu-quoc-island-ocean 2" : [ "@white", "@white", "@white", false ],
+    "tree-field-horizon-countryside-81413" : [ "@white", "@white", "@white", "@white" ],
+    "unsplash_5239d6c04342c_1" : [ "@white", "@white", "@white", false ]
+  },
+  "quotes" : [ {
+    "by" : "Jon Kabat-Zinn",
+    "quote" : "Paying attention and awareness are universal capacities of human beings"
+  }, {
+    "by" : "Jon Kabat-Zinn",
+    "quote" : "You don't need the iPhone: you have the most exquisite apparatus in the known universe sitting right in your head - the most complex organization of matter in the entire universe"
+  }, {
+    "by" : "Jon Kabat-Zinn",
+    "quote" : "When you pay attention to boredom it gets unbelievably interesting"
+  }, {
+    "by" : "Jon Kabat-Zinn",
+    "quote" : "It is what makes us human, what distinguishes us from other animals. We can be aware of being aware"
+  }, {
+    "by" : "Jon Kabat-Zinn",
+    "quote" : "The real meditation practice is how we live our lives from moment to moment to moment"
+  }, {
+    "by" : "Jon Kabat-Zinn",
+    "quote" : "Too much of the education system orients students toward becoming better thinkers, but there is almost no focus on our capacity to pay attention and cultivate awareness"
+  }, {
+    "by" : "Jon Kabat-Zinn",
+    "quote" : "Breathing is central to every aspect of meditation training. It's a wonderful place to focus in training the mind to be calm and concentrated"
+  }, {
+    "by" : "Temple Grandin",
+    "quote" : "I get satisfaction out of seeing stuff that makes real change in the real world. We need a lot more of that and a lot less abstract stuff"
+  }, {
+    "by" : "Temple Grandin",
+    "quote" : "People are always looking for the single magic bullet that will totally change everything. There is no single magic bullet"
+  }, {
+    "by" : "Winston Churchill",
+    "quote" : "Success is not final, failure is not fatal: it is the courage to continue that counts"
+  }, {
+    "by" : "Winston Churchill",
+    "quote" : "Success consists of going from failure to failure without loss of enthusiasm"
+  }, {
+    "by" : "Winston Churchill",
+    "quote" : "To improve is to change; to be perfect is to change often"
+  }, {
+    "by" : "Winston Churchill",
+    "quote" : "You have enemies? Good. That means you've stood up for something, sometime in your life"
+  }, {
+    "by" : "Winston Churchill",
+    "quote" : "Attitude is a little thing that makes a big difference"
+  }, {
+    "by" : "Winston Churchill",
+    "quote" : "Continuous effort - not strength or intelligence - is the key to unlocking our potential"
+  }, {
+    "by" : "Winston Churchill",
+    "quote" : "A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty"
+  }, {
+    "by" : "Winston Churchill",
+    "quote" : "The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is"
+  }, {
+    "by" : "Winston Churchill",
+    "quote" : "Kites rise highest against the wind - not with it"
+  }, {
+    "by" : "Winston Churchill",
+    "quote" : "If you're going through hell, keep going"
+  }, {
+    "by" : "Winston Churchill",
+    "quote" : "The empires of the future are the empires of the mind"
+  }, {
+    "by" : "Winston Churchill",
+    "quote" : "Difficulties mastered are opportunities won"
+  }, {
+    "by" : "Winston Churchill",
+    "quote" : "Let our advance worrying become advance thinking and planning"
+  }, {
+    "by" : "Winston Churchill",
+    "quote" : "In war as in life, it is often necessary when some cherished scheme has failed, to take up the best alternative open, and if so, it is folly not to work for it with all your might"
+  }, {
+    "by" : "Winston Churchill",
+    "quote" : "It is always wise to look ahead, but difficult to look further than you can see"
+  }, {
+    "by" : "Winston Churchill",
+    "quote" : "It is a good thing for an uneducated man to read books of quotations"
+  }, {
+    "by" : "Clarke",
+    "quote" : "Any sufficiently advanced technology is indistinguishable from magic. Arthur C"
+  }, {
+    "by" : "Steve Ballmer",
+    "quote" : "The number one benefit of information technology is that it empowers people to do what they want to do. It lets people be creative. It lets people be productive. It lets people learn things they didn't think they could learn before, and so in a sense it is all about potential"
+  }, {
+    "by" : "Skinner",
+    "quote" : "The real problem is not whether machines think but whether men do. B. F"
+  }, {
+    "by" : "Elbert Hubbard",
+    "quote" : "One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man"
+  }, {
+    "by" : "Antoine de Saint-Exupery",
+    "quote" : "The machine does not isolate man from the great problems of nature but plunges him more deeply into them"
+  }, {
+    "by" : "Alan Kay",
+    "quote" : "People who are really serious about software should make their own hardware"
+  }, {
+    "by" : "Jean Arp",
+    "quote" : "Soon silence will have passed into legend. Man has turned his back on silence. Day after day he invents machines and devices that increase noise and distract humanity from the essence of life, contemplation, meditation"
+  }, {
+    "by" : "Graham Greene",
+    "quote" : "Champagne, if you are seeking the truth, is better than a lie detector. It encourages a man to be expansive, even reckless, while lie detectors are only a challenge to tell lies successfully"
+  }, {
+    "by" : "Buckminster Fuller",
+    "quote" : "I just invent, then wait until man comes around to needing what I've invented. R"
+  }, {
+    "by" : "Murrow",
+    "quote" : "The newest computer can merely compound, at speed, the oldest problem in the relations between human beings, and in the end the communicator will be confronted with the old problem, of what to say and how to say it. Edward R"
+  }, {
+    "by" : "Tim Berners-Lee",
+    "quote" : "You affect the world by what you browse"
+  }, {
+    "by" : "Pablo Picasso",
+    "quote" : "TIt takes a long time to become young"
+  }, {
+    "by" : "Pablo Picasso",
+    "quote" : "The purpose of art is washing the dust of daily life off our souls"
+  }, {
+    "by" : "Pablo Picasso",
+    "quote" : "Every child is an artist. The problem is how to remain an artist once we grow up"
+  }, {
+    "by" : "Pablo Picasso",
+    "quote" : "To draw you must close your eyes and sing"
+  }, {
+    "by" : "Pablo Picasso",
+    "quote" : "Art is the elimination of the unnecessary"
+  }, {
+    "by" : "Pablo Picasso",
+    "quote" : "Others have seen what is and asked why. I have seen what could be and asked why not"
+  }, {
+    "by" : "Pablo Picasso",
+    "quote" : "Our goals can only be reached through a vehicle of a plan, in which we must fervently believe, and upon which we must vigorously act. There is no other route to success"
+  }, {
+    "by" : "Pablo Picasso",
+    "quote" : "Everything you can imagine is real"
+  }, {
+    "by" : "Pablo Picasso",
+    "quote" : "I am always doing that which I cannot do, in order that I may learn how to do it"
+  }, {
+    "by" : "Pablo Picasso",
+    "quote" : "Only put off until tomorrow what you are willing to die having left undone"
+  }, {
+    "by" : "Pablo Picasso",
+    "quote" : "I begin with an idea and then it becomes something else"
+  }, {
+    "by" : "Pablo Picasso",
+    "quote" : "Is there anything more dangerous than sympathetic understanding"
+  }, {
+    "by" : "Pablo Picasso",
+    "quote" : "An idea is a point of departure and no more. As soon as you elaborate it, it becomes transformed by thought"
+  }, {
+    "by" : "Pablo Picasso",
+    "quote" : "You have to have an idea of what you are going to do, but it should be a vague idea"
+  }, {
+    "by" : "Pablo Picasso",
+    "quote" : "Work is a necessity for man. Man invented the alarm clock"
+  }, {
+    "by" : "Leo Tolstoy",
+    "quote" : "The two most powerful warriors are patience and time"
+  } ]
+}
